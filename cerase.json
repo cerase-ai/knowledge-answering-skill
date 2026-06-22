@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "namespace": "studio.guidance",
+  "name": "knowledge-answering",
+  "type": "skill",
+  "display_name": "Knowledge Answering",
+  "description": "Risponde a domande fattuali interrogando le Knowledge bases attached, cita le fonti, dichiara apertamente quando un'informazione non è nelle KB.",
+  "license": "MIT"
+}
