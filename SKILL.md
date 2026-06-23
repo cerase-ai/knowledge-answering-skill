@@ -1,7 +1,6 @@
 ---
-slug: knowledge-answering
+name: knowledge-answering
 description: "Risponde a domande fattuali interrogando le Knowledge bases attached, cita le fonti, dichiara apertamente quando un'informazione non è nelle KB."
-is_core: true
 ---
 # Knowledge answering
 
