@@ -4,6 +4,6 @@
   "name": "knowledge-answering",
   "type": "skill",
   "display_name": "Knowledge Answering",
-  "description": "Risponde a domande fattuali interrogando le Knowledge bases attached, cita le fonti, dichiara apertamente quando un'informazione non è nelle KB.",
+  "description": "Answers factual questions by querying the attached Knowledge Bases, cites its sources, and openly states when a piece of information is not in the KBs.",
   "license": "MIT"
 }
