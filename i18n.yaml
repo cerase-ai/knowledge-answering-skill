@@ -1,0 +1,9 @@
+# Registry display text in the platform's other locales.
+#
+# The base fields -- SKILL.md's `description` and cerase.json's -- are the SOURCE
+# locale and are English; package_translations forbids a row for it, so this file
+# can only ever hold the others. It is registry metadata: the seeder keeps it out
+# of the bundle that ships to the agent.
+it:
+  display_name: "Knowledge Answering"
+  description: "Risponde a domande fattuali interrogando le Knowledge bases attached, cita le fonti, dichiara apertamente quando un'informazione non è nelle KB."
